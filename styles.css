@@ -1,0 +1,37 @@
+
+/****************************tag selectors***********/
+H5
+{
+  color: #362222;
+  font-family: cursive;
+  font-size: 25px;
+}
+p
+{
+  color:#362222;
+  font-family: cursive;
+  font-size: 25px;
+}
+img:hover{
+  background-color: gold;
+}
+
+body
+{
+  background-color:#FFBCBC;
+}
+/********************class selectors*************/
+.BR2{
+  background-color: BLACK;
+}
+.BR1{
+  background-color: BLACK;
+}
+.heading{
+  font-size: 15px;
+}
+.welcome{
+  text-shadow: 2px 2px 2px brown ;
+}
+
+/****************************id selectors***********/
